@@ -4,7 +4,7 @@ Features:
 User-friendly graphical interface.
 Designed using the Tkinter library.
 Requirements:
-Tkinter (usually included with Python by default)
+Tkinter (usually included with Python by default).
 2. QR Code Generator
 A Python application that generates QR codes from user input using the qrcode library. This tool allows you to convert text, URLs, or other information into a scannable QR code image.
 Features:
@@ -12,7 +12,7 @@ Save the generated QR code as an image (PNG format).
 Requirements:
 Python 3.x
 qrcode library
-Pillow library (for image handling)
+Pillow library (for image handling).
 3. Rock Paper Scissors Game
 A classic Rock Paper Scissors game implemented in Python where the user plays against the computer.
 Randomized computer choices.
